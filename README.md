@@ -1,6 +1,6 @@
 # os-rootfs
 [![Join the chat at https://gitter.im/hypriot/talk](https://badges.gitter.im/hypriot/talk.svg)](https://gitter.im/hypriot/talk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/hypriot/os-rootfs.svg)](https://travis-ci.org/hypriot/os-rootfs)
+[![Build Status](https://travis-ci.org/hypriot/os-rootfs.svg)](https://travis-ci.org/hypriot/os-rootfs) [![GuardRails badge](https://badges.production.guardrails.io/moul/os-rootfs.svg)](https://www.guardrails.io)
 
 The `os-rootfs` builds the base of all the HypriotOS images. This repo creates a general root filesystem for different CPU architectures without the board specific parts.
 
